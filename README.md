@@ -1,5 +1,9 @@
 # Insurance Analytics Dashboard
 
+## Dashboard Preview
+
+![Insurance Dashboard](Tableau_dashboard.png)
+
 ## Project Overview
 This project analyzes insurance business data using Power BI and Excel. The dashboard helps monitor revenue performance, budget achievement, policy sales, and key business KPIs.
 
