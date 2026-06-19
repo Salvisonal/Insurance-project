@@ -10,6 +10,8 @@ This project analyzes insurance business data using Power BI and Excel. The dash
 ## Tools Used
 - Power BI
 - Microsoft Excel
+- SQL
+- Tableau
 
 ## Key KPIs
 - Revenue
