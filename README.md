@@ -41,3 +41,4 @@ The dashboard provides management with a clear view of business performance and 
 ## Author
 Sonal Salvi
 Operations Analyst | Reporting Analyst | MIS Analyst
+LinkedIn: https://linkedin.com/in/sonal-salvi-9a31b32b1/
